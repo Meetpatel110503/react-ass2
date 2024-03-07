@@ -12,7 +12,7 @@ function LandingScreen() {
       <div className='text-center'>
         <h2 data-aos='zoom-in' className='mb-4 text-center'>
           <img
-            src='https://static.vecteezy.com/system/resources/previews/001/891/849/non_2x/shopping-bags-and-credit-card-design-free-vector.jpg'
+            src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fGy2AvJnE1yPJ0FppDwWViwXvB99DiLewoI5kkpOcaxzwdGdt6oaexoB8RmzFWxqOoY&usqp=CAU'
             alt='image not found'
             style={{ height: "300px", width: "300px", marginInline: "auto" }}
           />

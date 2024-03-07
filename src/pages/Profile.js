@@ -7,7 +7,7 @@ const Profile = () => {
 
   return (
     <>
-      <div className='flex justify-center'>
+      <div className='flex'>
         <div className='max-w-sm mx-auto  mb-4 border border-gray-200 rounded-lg bg-gray-50 dark:bg-gray-700 dark:border-gray-600 p-4 m-4'>
           <p className='text-2xl font-bold dark:text-whit pb-3 text-center'>
             My Profile
